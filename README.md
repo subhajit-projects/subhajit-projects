@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Subhajit Dey</h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MCA Post graduate;Full+Stack+Web+Developer;UI+/+UX+Designer&center=true&width=500&height=50"></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **subhajit-projects/subhajit-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
