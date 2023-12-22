@@ -1,4 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Subhajit Dey</h1>
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Subhajit Dey
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Subhajit Dey</h1> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
@@ -41,19 +43,19 @@ const Skills =
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="mailto:omunite21@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Subhajit Dey | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.linkedin.com/in/om-patel-401068143/">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+   <img align="left" alt="Subhajit Dey | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
    <a href="https://github.com/omunite215">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Subhajit Dey | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <a href="https://www.instagram.com/_21omp/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+    <img align="left" alt="Subhajit Dey | Facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
   <a href="https://www.instagram.com/_21omp/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img align="left" alt="Subhajit Dey | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 <!--   <a href="https://portfoliobyom.netlify.app/">
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
