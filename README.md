@@ -3,6 +3,8 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
+<br /> <br />
+
 - 👨‍💻 I’m currently working on Fullstack Web Development
 - 🌱 Contributing to Open Source Projects is always been a goal to me.
 - 🔭 I’m looking for freelance project
