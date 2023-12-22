@@ -37,7 +37,7 @@ const Skills =
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="mailto:omunite21@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.linkedin.com/in/om-patel-401068143/">
    <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
