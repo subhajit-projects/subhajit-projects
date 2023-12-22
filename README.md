@@ -6,7 +6,10 @@
 - 👨‍💻 I’m currently working on Fullstack Web Development
 - 🌱 Contributing to Open Source Projects is always been a goal to me.
 - 🔭 I’m looking for freelance project
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919830407193)
+<!-- - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919830407193) -->
+- <a href="https://wa.me/919830407193" target="_tab">
+    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+  </a>
 - 💬 Ask me about any Technical ground questions
 
 <br />
