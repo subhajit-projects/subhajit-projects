@@ -55,8 +55,10 @@ const Skills =
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a> -->
   <br>
+
+---
   
-<p> <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> <span align="right" >Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></span></p>
+<p> <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> <div align="right" >Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></div></p>
 <!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> </p> -->
 
 <!--
