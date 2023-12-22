@@ -20,13 +20,13 @@
 ```js
 const Skills = 
   {
-    languages : [Java, SQL],
+    languages : [Java, SQL, Python, JavaScript, HTML, CSS],
 
     ide       : [VSCode, Eclipse],
 
     libraries : [JQuery, React JS, Bootstrap],
 
-    frameworks: [Struts2, Spring Boot],
+    frameworks: [Struts2, Spring Boot, Django],
 
     databases : [PostGreSQL, MySql],
 
