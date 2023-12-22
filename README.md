@@ -46,6 +46,9 @@ const Skills =
     <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <a href="https://www.instagram.com/_21omp/">
+    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
+  </a>
+  <a href="https://www.instagram.com/_21omp/">
     <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 <!--   <a href="https://portfoliobyom.netlify.app/">
@@ -53,8 +56,8 @@ const Skills =
   </a> -->
   <br>
   
-<p align="center" > Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> </p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></p>
+<!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> </p> -->
 
 <!--
 **subhajit-projects/subhajit-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
