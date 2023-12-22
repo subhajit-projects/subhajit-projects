@@ -8,7 +8,7 @@
 - 🔭 I’m looking for freelance project
 <!-- - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919830407193) -->
 - 📫 How to reach me: message me at <a href="https://wa.me/919830407193" target="_new">
-    <img align="left" alt="Om Patel | Gmail" width="20px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
+    <img alt="Om Patel | Gmail" width="20px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
   </a>
 - 💬 Ask me about any Technical ground questions
 
