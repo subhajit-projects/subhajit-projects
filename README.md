@@ -38,7 +38,8 @@ const Skills =
 
 ---
 
-<h4> Connect with me🤝: <h4>
+<!-- <h4> Connect with me🤝: <h4> -->
+<img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=000000&style=flat" alt="subhajit projects" />
   </hr>
   <a href="mailto:omunite21@gmail.com">
     <img align="left" alt="Subhajit Dey | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
@@ -62,7 +63,7 @@ const Skills =
 
 ---
   
-<div> <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> <div align="right" >Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></div></div>
+<div> <!-- <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> --> <div align="right" >Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></div></div>
 <!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> </p> -->
 
 <!--
