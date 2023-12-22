@@ -32,6 +32,8 @@ const Skills =
     databases : [PostGreSQL, MySql],
 
     server    : [Amazon Web Services, Github Pages],
+
+    tools     : [Postman],
     
     OS        : [LINUX, Windows]
   }
