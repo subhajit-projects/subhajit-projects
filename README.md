@@ -6,9 +6,9 @@
 <br />
 
 - 👨‍💻 I’m currently working on Fullstack Web Development
-- 💻 3+ years work experience in web development
-- 🌱 Contributing to Open Source Projects is always been a goal to me
-- 🔭 I’m looking for freelance project
+- 💻 3+ years of work experience in web development
+- 🌱 Contributing to Open Source Projects is always been a goal for me
+- 🔭 I’m looking for a freelance project
 - 📫 How to reach me: message me at <a href="https://wa.me/919830407193" target="_new">
     <img alt="Om Patel | Gmail" width="15px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
   </a>
@@ -40,13 +40,17 @@ const Skills =
 ```
 
 ---
-<div style="width: 50%">
-    <img align="center" border-radius="40px" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-98&show_icons=true&locale=en&layout=compact&theme=react" alt="languages I use" />
-</div>
-<div style="width: 50%">
-    <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>
-</div>
----
+
+<table>
+<tr>
+<td>
+<img align="center" border-radius="40px" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-98&show_icons=true&locale=en&layout=compact&theme=react" alt="languages I use" />
+</td>
+<td>
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,3 +96,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- https://github.com/Zhenye-Na -->
