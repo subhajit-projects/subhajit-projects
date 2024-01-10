@@ -44,21 +44,21 @@ const Skills =
 <!-- <h4> Connect with me🤝: <h4> -->
 <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=000000&style=flat" alt="subhajit projects" />
   </hr>
-  <a href="mailto:omunite21@gmail.com">
+  <a href="mailto:subhajitdey.5198@gmail.com">
     <img align="left" alt="Subhajit Dey | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/om-patel-401068143/">
+  <a href="https://www.linkedin.com/in/subhajit-ddey-kolkata/">
    <img align="left" alt="Subhajit Dey | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
-   <a href="https://github.com/omunite215">
+   <a href="https://github.com/subhajit-projects">
     <img align="left" alt="Subhajit Dey | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://www.instagram.com/_21omp/">
+  <!-- <a href="https://www.instagram.com/_21omp/">
     <img align="left" alt="Subhajit Dey | Facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
   </a>
   <a href="https://www.instagram.com/_21omp/">
     <img align="left" alt="Subhajit Dey | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+  </a> -->
 <!--   <a href="https://portfoliobyom.netlify.app/">
     <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a> -->
@@ -66,7 +66,7 @@ const Skills =
 
 ---
   
-<div> <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> <div align="right" >Created with 🧡 by <a href="https://github.com/omunite215">Subhajit Dey</a></div></div>
+<div> <!--<img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> https://github.com/omunite215 --> <div align="right" >Created with 🧡 by <a href="https://github.com/subhajit-projects">Subhajit Dey</a></div></div>
 <!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=0e75b6&style=flat" alt="subhajit projects" /> </p> -->
 
 <!--
