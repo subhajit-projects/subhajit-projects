@@ -40,6 +40,15 @@ const Skills =
 ```
 
 ---
+<div style="width: 50%">
+    <img align="center" border-radius="40px" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-98&show_icons=true&locale=en&layout=compact&theme=react" alt="languages I use" />
+</div>
+<div style="width: 50%">
+    <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=subhajit-98&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/=subhajit-98"/>
+</div>
+---
+
+---
 
 <!-- <h4> Connect with me🤝: <h4> -->
 <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=000000&style=flat" alt="subhajit projects" />
