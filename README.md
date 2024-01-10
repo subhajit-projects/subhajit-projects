@@ -47,7 +47,7 @@ const Skills =
   <a href="mailto:subhajitdey.5198@gmail.com">
     <img align="left" alt="Subhajit Dey | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/subhajit-ddey-kolkata/">
+  <a href="https://www.linkedin.com/in/subhajit-dey-kolkata/">
    <img align="left" alt="Subhajit Dey | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
    <a href="https://github.com/subhajit-projects">
