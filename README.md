@@ -41,7 +41,7 @@ const Skills =
 
 ---
 
-<table>
+<table border=0>
 <tr>
 <td>
 <img align="center" border-radius="40px" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit-98&show_icons=true&locale=en&layout=compact&theme=react" alt="languages I use" />
