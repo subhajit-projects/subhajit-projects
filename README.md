@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- - 🔭 I’m looking for a freelance project -->
+- 🔭 I’m looking for a freelance project
 -->
 
 <!-- https://github.com/Zhenye-Na -->
