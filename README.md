@@ -58,13 +58,13 @@ const Skills =
 <img src="https://komarev.com/ghpvc/?username=subhajit-projects&label=Profile%20views&color=000000&style=flat" alt="subhajit projects" />
   </hr>
   <a href="mailto:subhajitdey.5198@gmail.com">
-    <img align="left" alt="Subhajit Dey | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Subhajit Dey | Gmail" width="20px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://www.linkedin.com/in/subhajit-dey-kolkata/">
-   <img align="left" alt="Subhajit Dey | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
+   <img align="left" alt="Subhajit Dey | Linkedin" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
   </a>
    <a href="https://github.com/subhajit-projects">
-    <img align="left" alt="Subhajit Dey | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Subhajit Dey | Github" width="20px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <!-- <a href="https://www.instagram.com/_21omp/">
     <img align="left" alt="Subhajit Dey | Facebook" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" />
